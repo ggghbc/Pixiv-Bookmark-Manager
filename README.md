@@ -63,4 +63,4 @@ This script interacts with the Pixiv API. Use it responsibly and in accordance w
 
 ## License
 
-This project is released under [The Unlicense](./LICENSE).
+This project is released under [The Unlicense](./LICENSE.txt).
