@@ -28,7 +28,7 @@ pip install pixivpy3
 1.  **Obtain a Refresh Token**: You need a `refresh_token` to interact with the Pixiv API. You can obtain this using tools like [get-pixivpy-token](https://github.com/eggplants/get-pixivpy-token). Follow the instructions in that repository to get your token.
 
 2.  **Configure the Script** (Optional but Recommended):
-    - Open `pixiv_manager.py`.
+    - Open `pixiv_bookmark_manager.py`.
     - Locate the line `REFRESH_TOKEN = ""`.
     - Replace the empty string `""` with your obtained `refresh_token` between the quotes. For example:
         ```python
@@ -39,7 +39,7 @@ pip install pixivpy3
     Execute the script from your terminal:
 
     ```bash
-    python pixiv_manager.py
+    python pixiv_bookmark_manager.py
     ```
 
     - If you configured the `REFRESH_TOKEN` variable, the script will use it automatically.
