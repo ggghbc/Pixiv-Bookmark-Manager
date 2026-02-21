@@ -11,7 +11,7 @@ A Python script to manage Pixiv bookmarks by changing their visibility between p
 
 ## Requirements
 
-- Python 3.x (developed on 3.12)
+- Python 3.9+ (developed on 3.12)
 - `pixivpy3` library
 
 ## Installation
